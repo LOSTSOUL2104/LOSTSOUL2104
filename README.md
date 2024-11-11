@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LOSTSOUL2104/LOSTSOUL2104/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LOSTSOUL2104/LOSTSOUL2104/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LOSTSOUL2104/LOSTSOUL2104/output/github-snake.svg" />
